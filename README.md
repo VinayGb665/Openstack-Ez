@@ -39,5 +39,5 @@ ffff::f ip6-allrouters
 
 ```
 ## Notes
-* The script doesnt install neutron (Still under construction)
+* The script does not install neutron (Still under construction)
 * Only the controller node for swift is installed and configured
